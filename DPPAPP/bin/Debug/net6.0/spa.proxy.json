@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "",
+"LaunchCommand": "",
+"WorkingDirectory": "C:\\Users\\Renombrar\\Desktop\\DPPAPP\\DPPAPP",
+"MaxTimeoutInSeconds": "120"
+}
+}
